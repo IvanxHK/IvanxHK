@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML5, CSS, Bootstrap, Phyton, Flask and Android Studio**
 
-- 👨‍💻 All of my projects are available at [waiting](waiting)
+- 👨‍💻 All of my projects are available at [https://ivanxhk.github.io/](https://ivanxhk.github.io/)
 
 - 💬 Ask me about **MySQL and Java**
 
